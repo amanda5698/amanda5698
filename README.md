@@ -2,7 +2,7 @@
 
 Meu nome é Amanda
 
-_Estou estudando na .[alura].(https://www.alura.com.br)
+_Estou estudando na [alura](https://www.alura.com.br)
 _Estou me desenvolvendo na linguagem javaScript;
 _Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
 
