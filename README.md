@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 👋
 
-Meu nome é Amanda
+Meu nome é Amanda ❤️
 
 _Estou estudando na [alura](https://www.alura.com.br)
 _Estou me desenvolvendo na linguagem javaScript
